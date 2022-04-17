@@ -13,7 +13,7 @@ mod enums;
 mod cli;
 
 fn main() {
-  // print::run();
+  print::run();
   // vars::run();
   // types::run();
   // string::run();
@@ -25,5 +25,5 @@ fn main() {
   // pointer_ref::run();
   // structs::run();  
   // enums::run();
-  cli::run();
+  // cli::run();
 }
